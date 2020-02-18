@@ -16,11 +16,13 @@ export default () => {
   }, []);
 
   return (
-    <>
-      <Map data={data} selected={selected} setSelected={setSelected} />
-      <Tiles data={data} setSelected={setSelected}>
-        <Video selected={selected} />
-      </Tiles>
-    </>
+    data && (
+      <>
+        <Map data={data} selected={selected} setSelected={setSelected} />
+        <Tiles data={data} setSelected={setSelected}>
+          <Video selected={selected} />
+        </Tiles>
+      </>
+    )
   );
 };
