@@ -1,26 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from "react";
+import Map from "./components/Map";
+import Tiles from "./components/Tiles";
+import Video from "./components/Video";
 
-function App() {
+export default () => {
+  const [data, setData] = useState(null);
+  const [selected, setSelected] = useState(null);
+  useEffect(() => {
+    fetch("/data.json")
+      .then(res => res.json())
+      .then(res => {
+        setData(res);
+        setSelected(res[0]);
+      });
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Map data={data} selected={selected} setSelected={setSelected} />
+      <Tiles data={data} setSelected={setSelected}>
+        <Video selected={selected} />
+      </Tiles>
+    </>
   );
-}
-
-export default App;
+};
