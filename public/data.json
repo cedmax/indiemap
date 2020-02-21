@@ -1,1517 +1,1517 @@
 [
-    {
-        "artist": "Cage The Elephant",
-        "city": "Aberdeen",
-        "lat": "57.149717",
-        "lng": "-2.094278000000031",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/bZBmcSBoRAE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "bZBmcSBoRAE",
-            "duration": "PT3M12S"
-        }
-    },
-    {
-        "artist": "The Afghan Whigs",
-        "city": "Algiers",
-        "lat": "36.753768",
-        "lng": "3.0587560999999823",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/ovhzeqIaggY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "ovhzeqIaggY",
-            "duration": "PT4M6S"
-        }
-    },
-    {
-        "artist": "Mystery Jets",
-        "city": "Alice Springs",
-        "lat": "-23.698042",
-        "lng": "133.8807471",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/VsODKfODRy0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "VsODKfODRy0",
-            "duration": "PT5M19S"
-        }
-    },
-    {
-        "artist": "Gorillaz",
-        "city": "Amarillo",
-        "lat": "35.2219971",
-        "lng": "-101.83129689999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/iKtNaVaqAKk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "iKtNaVaqAKk",
-            "duration": "PT3M25S"
-        }
-    },
-    {
-        "artist": "Daughter",
-        "city": "Amsterdam",
-        "lat": "52.3666969",
-        "lng": "4.894539799999961",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/Bqy0tD6mCPs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "Bqy0tD6mCPs",
-            "duration": "PT5M6S"
-        }
-    },
-    {
-        "artist": "Enter Shikari",
-        "city": "Antwerpen",
-        "lat": "39.2099521",
-        "lng": "-76.94205069999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/igcyn9uFlMI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "igcyn9uFlMI",
-            "duration": "PT3M17S"
-        }
-    },
-    {
-        "artist": "Far Caspian",
-        "city": "Astoria",
-        "lat": "46.1878841",
-        "lng": "-123.83125339999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/gJWcdMgH4Z8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "gJWcdMgH4Z8",
-            "duration": "PT4M7S"
-        }
-    },
-    {
-        "artist": "Young Statues",
-        "city": "Athens",
-        "lat": "37.9838096",
-        "lng": "23.727538800000048",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/xth0-wQhT_s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "xth0-wQhT_s",
-            "duration": "PT3M19S"
-        }
-    },
-    {
-        "artist": "George Ezra",
-        "city": "Barcelona",
-        "lat": "41.3850639",
-        "lng": "2.1734034999999494",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/nc9rYioj2QM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "nc9rYioj2QM",
-            "duration": "PT3M5S"
-        }
-    },
-    {
-        "artist": "Indochine",
-        "city": "Belfast",
-        "lat": "54.59728500000001",
-        "lng": "-5.930119999999988",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/yuiUlLPHYPA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "yuiUlLPHYPA",
-            "duration": "PT6M6S"
-        }
-    },
-    {
-        "artist": "Palace",
-        "city": "Berlin",
-        "lat": "52.52000659999999",
-        "lng": "13.404953999999975",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/WkP9_skJQrI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "WkP9_skJQrI",
-            "duration": "PT3M13S"
-        }
-    },
-    {
-        "artist": "Declan McKenna",
-        "city": "Bethlehem",
-        "lat": "31.7053821",
-        "lng": "35.20244249999996",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/1Ce_ICrHVfU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "1Ce_ICrHVfU",
-            "duration": "PT3M44S"
-        }
-    },
-    {
-        "artist": "Foxlane",
-        "city": "Birmingham",
-        "lat": "33.5185892",
-        "lng": "-86.8103567",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/655OPrwua4c/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "655OPrwua4c",
-            "duration": "PT5M14S"
-        }
-    },
-    {
-        "artist": "Dermot Kennedy",
-        "city": "Boston",
-        "lat": "42.3600825",
-        "lng": "-71.05888010000001",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/U4nIc2I1y8I/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "U4nIc2I1y8I",
-            "duration": "PT4M34S"
-        }
-    },
-    {
-        "artist": "Beirut",
-        "city": "Bratislava",
-        "lat": "48.1485965",
-        "lng": "17.10774779999997",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/7Bah_s2re9Y/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "7Bah_s2re9Y",
-            "duration": "PT3M18S"
-        }
-    },
-    {
-        "artist": "Warhaus",
-        "city": "Bruxelles",
-        "lat": "50.8503396",
-        "lng": "4.351710300000036",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/EaGjkhlI7E0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "EaGjkhlI7E0",
-            "duration": "PT4M41S"
-        }
-    },
-    {
-        "artist": "George Ezra",
-        "city": "Budapest",
-        "lat": "47.497912",
-        "lng": "19.04023499999994",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/VHrLPs3_1Fs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "VHrLPs3_1Fs",
-            "duration": "PT3M37S"
-        }
-    },
-    {
-        "artist": "Toro y Moi",
-        "city": "Buffalo",
-        "lat": "42.88644679999999",
-        "lng": "-78.8783689",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/rBn06ZRU-4o/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "rBn06ZRU-4o",
-            "duration": "PT3M20S"
-        }
-    },
-    {
-        "artist": "San Fermin",
-        "city": "Cairo",
-        "lat": "30.0444196",
-        "lng": "31.23571160000006",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/b2BgX-gaD_w/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "b2BgX-gaD_w",
-            "duration": "PT4M34S"
-        }
-    },
-    {
-        "artist": "Bon Iver",
-        "city": "Calgary",
-        "lat": "51.04473309999999",
-        "lng": "-114.07188309999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/0KrmxavLIRM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "0KrmxavLIRM",
-            "duration": "PT4M13S"
-        }
-    },
-    {
-        "artist": "Beirut",
-        "city": "Cherbourg",
-        "lat": "49.6337308",
-        "lng": "-1.622137000000066",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/Z5BuZQGoJF4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "Z5BuZQGoJF4",
-            "duration": "PT3M34S"
-        }
-    },
-    {
-        "artist": "Sufjan Stevens",
-        "city": "Chicago",
-        "lat": "41.8781136",
-        "lng": "-87.62979819999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/c_-cUdmdWgU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "c_-cUdmdWgU",
-            "duration": "PT6M5S"
-        }
-    },
-    {
-        "artist": "First Hate",
-        "city": "Copenhagen",
-        "lat": "55.6760968",
-        "lng": "12.568337199999974",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/1vJ6_lChV1A/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "1vJ6_lChV1A",
-            "duration": "PT4M18S"
-        }
-    },
-    {
-        "artist": "Gorillaz",
-        "city": "Detroit",
-        "lat": "42.331427",
-        "lng": "-83.0457538",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/jax83cVKij0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "jax83cVKij0",
-            "duration": "PT2M4S"
-        }
-    },
-    {
-        "artist": "The Slow Show",
-        "city": "Dresden",
-        "lat": "51.0504088",
-        "lng": "13.737262099999953",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/ZTQwhKK4mRI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "ZTQwhKK4mRI",
-            "duration": "PT5M41S"
-        }
-    },
-    {
-        "artist": "Prefab Sprout",
-        "city": "Dublin",
-        "lat": "53.3498053",
-        "lng": "-6.260309699999993",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/k9ob1mPJ0q8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "k9ob1mPJ0q8",
-            "duration": "PT3M44S"
-        }
-    },
-    {
-        "artist": "Regina Spektor",
-        "city": "Düsseldorf",
-        "lat": "51.2277411",
-        "lng": "6.773455600000034",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/_UIeooHNvPo/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "_UIeooHNvPo",
-            "duration": "PT3M13S"
-        }
-    },
-    {
-        "artist": "The Lake Poets",
-        "city": "Edinburgh",
-        "lat": "55.953252",
-        "lng": "-3.188266999999996",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/onz02Or5grE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "onz02Or5grE",
-            "duration": "PT4M52S"
-        }
-    },
-    {
-        "artist": "Sufjan Stevens",
-        "city": "Eugene",
-        "lat": "44.0520691",
-        "lng": "-123.08675360000001",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/mMKP2Vcc6wA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "mMKP2Vcc6wA",
-            "duration": "PT2M25S"
-        }
-    },
-    {
-        "artist": "Beirut",
-        "city": "Gallipoli",
-        "lat": "40.3333333",
-        "lng": "26.5",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/knHvi4A8v9Q/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "knHvi4A8v9Q",
-            "duration": "PT4M7S"
-        }
-    },
-    {
-        "artist": "Kindness",
-        "city": "Geneva",
-        "lat": "46.2043907",
-        "lng": "6.143157699999961",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/CUvagfXwyEM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "CUvagfXwyEM",
-            "duration": "PT5M52S"
-        }
-    },
-    {
-        "artist": "Catfish and the Bottlemen",
-        "city": "Glasgow",
-        "lat": "55.864237",
-        "lng": "-4.251805999999988",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/Tyc4vo28_MU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "Tyc4vo28_MU",
-            "duration": "PT2M41S"
-        }
-    },
-    {
-        "artist": "Fountains Of Wayne",
-        "city": "Hackensack",
-        "lat": "40.8859325",
-        "lng": "-74.04347359999997",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/Kq8ZzZDjTd4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "Kq8ZzZDjTd4",
-            "duration": "PT3M1S"
-        }
-    },
-    {
-        "artist": "Camila Cabello (feat. Young Thug)",
-        "city": "Havana",
-        "lat": "23.1135925",
-        "lng": "-82.36659559999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/BQ0mxQXmLsk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "BQ0mxQXmLsk",
-            "duration": "PT6M43S"
-        }
-    },
-    {
-        "artist": "L.A.",
-        "city": "Helsinki",
-        "lat": "60.16985569999999",
-        "lng": "24.93837910000002",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/dLUWCGUlkxU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "dLUWCGUlkxU",
-            "duration": "PT3M15S"
-        }
-    },
-    {
-        "artist": "Bon Iver",
-        "city": "Hinnom",
-        "lat": "38.110702",
-        "lng": "-76.73630500000002",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/ve5dUOWI0q4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "ve5dUOWI0q4",
-            "duration": "PT2M47S"
-        }
-    },
-    {
-        "artist": "Sufjan Stevens",
-        "city": "Holland",
-        "lat": "52.132633",
-        "lng": "5.2912659999999505",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/R6wQ2YP2mhk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "R6wQ2YP2mhk",
-            "duration": "PT3M29S"
-        }
-    },
-    {
-        "artist": "Gorillaz",
-        "city": "Hong Kong",
-        "lat": "22.3193039",
-        "lng": "114.16936110000006",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/j1RzxBBAQzA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "j1RzxBBAQzA",
-            "duration": "PT7M18S"
-        }
-    },
-    {
-        "artist": "Last Dinosaurs",
-        "city": "Honolulu",
-        "lat": "21.3069444",
-        "lng": "-157.85833330000003",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/MinoVJfuAAs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "MinoVJfuAAs",
-            "duration": "PT4M12S"
-        }
-    },
-    {
-        "artist": "R.E.M.",
-        "city": "Houston",
-        "lat": "29.7604267",
-        "lng": "-95.3698028",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/6leZFkO_Djs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "6leZFkO_Djs",
-            "duration": "PT2M23S"
-        }
-    },
-    {
-        "artist": "Vampire Weekend",
-        "city": "Hudson",
-        "lat": "42.2528649",
-        "lng": "-73.79095899999999",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/ghziAXJAvk8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "ghziAXJAvk8",
-            "duration": "PT4M15S"
-        }
-    },
-    {
-        "artist": "Lust For Youth",
-        "city": "Imola",
-        "lat": "44.35999959999999",
-        "lng": "11.712429400000019",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/e19GckHndI4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "e19GckHndI4",
-            "duration": "PT4M27S"
-        }
-    },
-    {
-        "artist": "They Might Be Giants",
-        "city": "Istanbul (Not Constantinople)",
-        "lat": "41.0082376",
-        "lng": "28.97835889999999",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/vsQrKZcYtqg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "vsQrKZcYtqg",
-            "duration": "PT2M36S"
-        }
-    },
-    {
-        "artist": "Sufjan Stevens",
-        "city": "Jacksonville",
-        "lat": "30.3321838",
-        "lng": "-81.65565099999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/8bQJdAqbQJ0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "8bQJdAqbQJ0",
-            "duration": "PT5M25S"
-        }
-    },
-    {
-        "artist": "Sinéad O'Connor",
-        "city": "Jerusalem",
-        "lat": "31.768319",
-        "lng": "35.21370999999999",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/eGFdJPqoh1M/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "eGFdJPqoh1M",
-            "duration": "PT4M14S"
-        }
-    },
-    {
-        "artist": "Okkervil River",
-        "city": "Kansas City",
-        "lat": "39.0997265",
-        "lng": "-94.57856670000001",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/RlVcU1TdqNE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "RlVcU1TdqNE",
-            "duration": "PT5M47S"
-        }
-    },
-    {
-        "artist": "Faye Webster",
-        "city": "Kingston",
-        "lat": "41.9270367",
-        "lng": "-73.99736080000002",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/-5_tGEao_GQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "-5_tGEao_GQ",
-            "duration": "PT3M25S"
-        }
-    },
-    {
-        "artist": "Lucy Rose",
-        "city": "Köln",
-        "lat": "50.937531",
-        "lng": "6.960278600000038",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/0d2m4oh8psk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "0d2m4oh8psk",
-            "duration": "PT3M22S"
-        }
-    },
-    {
-        "artist": "Elliott Smith",
-        "city": "L.A.",
-        "lat": "34.0522342",
-        "lng": "-118.2436849",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/TLlu9XjJg3s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "TLlu9XjJg3s",
-            "duration": "PT3M16S"
-        }
-    },
-    {
-        "artist": "Band of Horses",
-        "city": "Laredo",
-        "lat": "27.5035613",
-        "lng": "-99.50755190000001",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/Ev0jl6RS5Eo/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "Ev0jl6RS5Eo",
-            "duration": "PT3M9S"
-        }
-    },
-    {
-        "artist": "Balthazar",
-        "city": "Leipzig",
-        "lat": "51.3396955",
-        "lng": "12.373074699999961",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/XWPFvTurnTw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "XWPFvTurnTw",
-            "duration": "PT2M41S"
-        }
-    },
-    {
-        "artist": "Lisa Hannigan",
-        "city": "Lille",
-        "lat": "50.62925",
-        "lng": "3.057256000000052",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/2G21swi--fc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "2G21swi--fc",
-            "duration": "PT4M6S"
-        }
-    },
-    {
-        "artist": "Maximo Park",
-        "city": "Limassol",
-        "lat": "34.7071301",
-        "lng": "33.022617399999945",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/L1jmjtLUbYg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "L1jmjtLUbYg",
-            "duration": "PT3M43S"
-        }
-    },
-    {
-        "artist": "Wolf Alice",
-        "city": "Lisbon",
-        "lat": "38.7222524",
-        "lng": "-9.139336599999979",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/EmoomYE2HbQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "EmoomYE2HbQ",
-            "duration": "PT3M29S"
-        }
-    },
-    {
-        "artist": "Benjamin Clementine",
-        "city": "London",
-        "lat": "51.5073509",
-        "lng": "-0.12775829999998223",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/6RJMhYtYKMQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "6RJMhYtYKMQ",
-            "duration": "PT4M"
-        }
-    },
-    {
-        "artist": "Ólöf Arnalds",
-        "city": "Madrid",
-        "lat": "40.4167754",
-        "lng": "-3.7037901999999576",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/BvCPfIrqxHs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "BvCPfIrqxHs",
-            "duration": "PT4M59S"
-        }
-    },
-    {
-        "artist": "Girls Names",
-        "city": "Málaga",
-        "lat": "36.7167456",
-        "lng": "-4.425996199999986",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/pkCPWRe7rL4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "pkCPWRe7rL4",
-            "duration": "PT3M15S"
-        }
-    },
-    {
-        "artist": "STRFKR",
-        "city": "Malmo",
-        "lat": "55.604981",
-        "lng": "13.003822000000014",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/sgZvKBBuv-c/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "sgZvKBBuv-c",
-            "duration": "PT3M35S"
-        }
-    },
-    {
-        "artist": "Nina Nesbitt",
-        "city": "Manchester",
-        "lat": "53.4807593",
-        "lng": "-2.2426305000000184",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/7sSmlWKBtKU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "7sSmlWKBtKU",
-            "duration": "PT3M44S"
-        }
-    },
-    {
-        "artist": "Foals",
-        "city": "Miami",
-        "lat": "25.7616798",
-        "lng": "-80.19179020000001",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/vQ90LRaEIt0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "vQ90LRaEIt0",
-            "duration": "PT4M21S"
-        }
-    },
-    {
-        "artist": "The Weeknd",
-        "city": "Montreal",
-        "lat": "45.5016889",
-        "lng": "-73.56725599999999",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/TV1r4m8c9SI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "TV1r4m8c9SI",
-            "duration": "PT4M16S"
-        }
-    },
-    {
-        "artist": "Autoheart",
-        "city": "Moscow",
-        "lat": "55.755826",
-        "lng": "37.617299900000035",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/KIRgN6xTjnA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "KIRgN6xTjnA",
-            "duration": "PT3M52S"
-        }
-    },
-    {
-        "artist": "Editors",
-        "city": "Munich",
-        "lat": "48.1351253",
-        "lng": "11.581980499999986",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/5xRVm-JX5Rk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "5xRVm-JX5Rk",
-            "duration": "PT3M46S"
-        }
-    },
-    {
-        "artist": "Fleet Foxes",
-        "city": "Mykonos",
-        "lat": "37.4467354",
-        "lng": "25.32888449999996",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/DT-dxG4WWf4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "DT-dxG4WWf4",
-            "duration": "PT3M49S"
-        }
-    },
-    {
-        "artist": "Beirut",
-        "city": "Nantes",
-        "lat": "47.218371",
-        "lng": "-1.553621000000021",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/PCkT4K-hppE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "PCkT4K-hppE",
-            "duration": "PT3M51S"
-        }
-    },
-    {
-        "artist": "Yo La Tengo",
-        "city": "Naples",
-        "lat": "26.1420358",
-        "lng": "-81.7948103",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/UJQMJIfRwYk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "UJQMJIfRwYk",
-            "duration": "PT2M47S"
-        }
-    },
-    {
-        "artist": "alt-J",
-        "city": "Nara",
-        "lat": "34.685109",
-        "lng": "135.80480190000003",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/MtmrYisoxXA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "MtmrYisoxXA",
-            "duration": "PT4M57S"
-        }
-    },
-    {
-        "artist": "St. Vincent",
-        "city": "New York",
-        "lat": "40.7127753",
-        "lng": "-74.0059728",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/4TPqUvy1vYU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "4TPqUvy1vYU",
-            "duration": "PT3M2S"
-        }
-    },
-    {
-        "artist": "Caribou",
-        "city": "Odessa",
-        "lat": "46.482526",
-        "lng": "30.723309500000028",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/Yq_tDOFU5tY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "Yq_tDOFU5tY",
-            "duration": "PT5M15S"
-        }
-    },
-    {
-        "artist": "Anna of the North",
-        "city": "Oslo",
-        "lat": "59.9138688",
-        "lng": "10.752245399999993",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/zsGw39dq7t4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "zsGw39dq7t4",
-            "duration": "PT3M59S"
-        }
-    },
-    {
-        "artist": "Little Dragon",
-        "city": "Paris",
-        "lat": "48.856614",
-        "lng": "2.3522219000000177",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/EFEyHkW5MCs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "EFEyHkW5MCs",
-            "duration": "PT3M27S"
-        }
-    },
-    {
-        "artist": "Bon Iver",
-        "city": "Perth",
-        "lat": "-31.9505269",
-        "lng": "115.86045719999993",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/iIluBvQ77Bk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "iIluBvQ77Bk",
-            "duration": "PT4M23S"
-        }
-    },
-    {
-        "artist": "Sufjan Stevens",
-        "city": "Pittsfield",
-        "lat": "42.4500845",
-        "lng": "-73.24538239999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/OmoTA_feqWk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "OmoTA_feqWk",
-            "duration": "PT6M52S"
-        }
-    },
-    {
-        "artist": "Blaenavon",
-        "city": "Prague",
-        "lat": "50.0755381",
-        "lng": "14.43780049999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/DmmtYsXlEYQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "DmmtYsXlEYQ",
-            "duration": "PT5M16S"
-        }
-    },
-    {
-        "artist": "Blur",
-        "city": "Pyongyang",
-        "lat": "39.0392193",
-        "lng": "125.76252410000006",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/Zvodg_PqH18/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "Zvodg_PqH18",
-            "duration": "PT5M48S"
-        }
-    },
-    {
-        "artist": "Brolin",
-        "city": "Reykjavik",
-        "lat": "64.146582",
-        "lng": "-21.942635399999972",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/JfoOJ8hiC-o/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "JfoOJ8hiC-o",
-            "duration": "PT4M6S"
-        }
-    },
-    {
-        "artist": "Followed By Ghosts",
-        "city": "Riga",
-        "lat": "56.9496487",
-        "lng": "24.105186499999945",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/ZRRT34C0dWw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "ZRRT34C0dWw",
-            "duration": "PT5M37S"
-        }
-    },
-    {
-        "artist": "Phoenix",
-        "city": "Rome",
-        "lat": "41.9027835",
-        "lng": "12.496365500000024",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/6COg7Y6kW40/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "6COg7Y6kW40",
-            "duration": "PT4M39S"
-        }
-    },
-    {
-        "artist": "Hinds",
-        "city": "San Diego",
-        "lat": "32.715738",
-        "lng": "-117.16108380000003",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/9P2l0zAr3t8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "9P2l0zAr3t8",
-            "duration": "PT2M43S"
-        }
-    },
-    {
-        "artist": "Foxygen",
-        "city": "San Francisco",
-        "lat": "37.7749295",
-        "lng": "-122.41941550000001",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/KtdWGGpvY1s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "KtdWGGpvY1s",
-            "duration": "PT3M49S"
-        }
-    },
-    {
-        "artist": "The National",
-        "city": "Santa Clara",
-        "lat": "37.3541079",
-        "lng": "-121.95523559999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/tcMY-dgnwkI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "tcMY-dgnwkI",
-            "duration": "PT4M6S"
-        }
-    },
-    {
-        "artist": "Beirut",
-        "city": "Santa Fe",
-        "lat": "35.6869752",
-        "lng": "-105.93779899999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/JRCTLJQBRC4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "JRCTLJQBRC4",
-            "duration": "PT4M15S"
-        }
-    },
-    {
-        "artist": "Max Richter",
-        "city": "Sarajevo",
-        "lat": "43.8562586",
-        "lng": "18.413076300000057",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/ZTvhR0lEtZM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "ZTvhR0lEtZM",
-            "duration": "PT4M4S"
-        }
-    },
-    {
-        "artist": "Lucy Rose",
-        "city": "Sheffield",
-        "lat": "53.38112899999999",
-        "lng": "-1.47008500000004",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/q5Fb1UIritY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "q5Fb1UIritY",
-            "duration": "PT3M28S"
-        }
-    },
-    {
-        "artist": "Tom Waits",
-        "city": "Singapore",
-        "lat": "1.352083",
-        "lng": "103.81983600000001",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/QywH5lialsU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "QywH5lialsU",
-            "duration": "PT2M46S"
-        }
-    },
-    {
-        "artist": "Brazilian Girls",
-        "city": "St. Petersburg",
-        "lat": "27.7676008",
-        "lng": "-82.64029149999999",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/3wtCFOESm7A/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "3wtCFOESm7A",
-            "duration": "PT4M22S"
-        }
-    },
-    {
-        "artist": "Harfang",
-        "city": "Stockholm",
-        "lat": "59.32932349999999",
-        "lng": "18.068580800000063",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/VQJjQlm79E8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "VQJjQlm79E8",
-            "duration": "PT3M21S"
-        }
-    },
-    {
-        "artist": "The Rakes",
-        "city": "Strasbourg",
-        "lat": "48.5734053",
-        "lng": "7.752111300000024",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/auHdkx9ICow/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "auHdkx9ICow",
-            "duration": "PT2M41S"
-        }
-    },
-    {
-        "artist": "Bombay Bicycle Club",
-        "city": "Swansea",
-        "lat": "51.62144",
-        "lng": "-3.9436459999999443",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/MZOQjBX7suM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "MZOQjBX7suM",
-            "duration": "PT3M55S"
-        }
-    },
-    {
-        "artist": "Caravan Palace",
-        "city": "Sydney",
-        "lat": "-33.8688197",
-        "lng": "151.20929550000005",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/s0fZQEqm3d8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "s0fZQEqm3d8",
-            "duration": "PT3M33S"
-        }
-    },
-    {
-        "artist": "65daysofstatic",
-        "city": "Taipei",
-        "lat": "25.0329694",
-        "lng": "121.56541770000001",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/DmL5Cb7ljn8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "DmL5Cb7ljn8",
-            "duration": "PT6M15S"
-        }
-    },
-    {
-        "artist": "LANY",
-        "city": "Tampa",
-        "lat": "27.950575",
-        "lng": "-82.45717760000002",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/KonHAN_957c/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "KonHAN_957c",
-            "duration": "PT3M43S"
-        }
-    },
-    {
-        "artist": "The Notwist",
-        "city": "The Hague",
-        "lat": "52.0704978",
-        "lng": "4.3006999000000405",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/pDKQ-KNtHQE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "pDKQ-KNtHQE",
-            "duration": "PT2M45S"
-        }
-    },
-    {
-        "artist": "White Lies",
-        "city": "Tokyo",
-        "lat": "35.6803997",
-        "lng": "139.76901739999994",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/BwM_mK1HJaA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "BwM_mK1HJaA",
-            "duration": "PT4M53S"
-        }
-    },
-    {
-        "artist": "Tusks",
-        "city": "Toronto",
-        "lat": "43.653226",
-        "lng": "-79.38318429999998",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/hCFBrsLhQ74/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "hCFBrsLhQ74",
-            "duration": "PT3M21S"
-        }
-    },
-    {
-        "artist": "IS TROPICAL",
-        "city": "Toulouse",
-        "lat": "43.604652",
-        "lng": "1.4442090000000007",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/EpcvxD2Q99s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "EpcvxD2Q99s",
-            "duration": "PT2M46S"
-        }
-    },
-    {
-        "artist": "Jeff Buckley",
-        "city": "Vancouver",
-        "lat": "49.2827291",
-        "lng": "-123.12073750000002",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/m0_pFAh6cbw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "m0_pFAh6cbw",
-            "duration": "PT3M18S"
-        }
-    },
-    {
-        "artist": "Beirut",
-        "city": "Venice",
-        "lat": "45.4408474",
-        "lng": "12.31551509999997",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/13N7UI_Eegk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "13N7UI_Eegk",
-            "duration": "PT4M"
-        }
-    },
-    {
-        "artist": "Hurts",
-        "city": "Verona",
-        "lat": "45.43838419999999",
-        "lng": "10.991621500000065",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/XFKuP8TcmXA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "XFKuP8TcmXA",
-            "duration": "PT2M14S"
-        }
-    },
-    {
-        "artist": "Thom Sonny Green",
-        "city": "Vienna",
-        "lat": "48.2081743",
-        "lng": "16.37381890000006",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/TEUAxKisa9I/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "TEUAxKisa9I",
-            "duration": "PT3M13S"
-        }
-    },
-    {
-        "artist": "Sharon Van Etten",
-        "city": "Warsaw",
-        "lat": "52.2296756",
-        "lng": "21.012228700000037",
-        "video": {
-            "thumbnails": {
-                "url": "https://i.ytimg.com/vi/GwLmRvyody0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "id": "GwLmRvyody0",
-            "duration": "PT2M28S"
-        }
+  {
+    "artist": "Cage The Elephant",
+    "city": "Aberdeen",
+    "lat": "57.149717",
+    "lng": "-2.094278000000031",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/bZBmcSBoRAE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "bZBmcSBoRAE",
+      "duration": "PT3M12S"
     }
+  },
+  {
+    "artist": "The Afghan Whigs",
+    "city": "Algiers",
+    "lat": "36.753768",
+    "lng": "3.0587560999999823",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/ovhzeqIaggY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "ovhzeqIaggY",
+      "duration": "PT4M6S"
+    }
+  },
+  {
+    "artist": "Mystery Jets",
+    "city": "Alice Springs",
+    "lat": "-23.698042",
+    "lng": "133.8807471",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/VsODKfODRy0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "VsODKfODRy0",
+      "duration": "PT5M19S"
+    }
+  },
+  {
+    "artist": "Gorillaz",
+    "city": "Amarillo",
+    "lat": "35.2219971",
+    "lng": "-101.83129689999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/iKtNaVaqAKk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "iKtNaVaqAKk",
+      "duration": "PT3M25S"
+    }
+  },
+  {
+    "artist": "Daughter",
+    "city": "Amsterdam",
+    "lat": "52.3666969",
+    "lng": "4.894539799999961",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/Bqy0tD6mCPs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "Bqy0tD6mCPs",
+      "duration": "PT5M6S"
+    }
+  },
+  {
+    "artist": "Enter Shikari",
+    "city": "Antwerpen",
+    "lat": "39.2099521",
+    "lng": "-76.94205069999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/igcyn9uFlMI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "igcyn9uFlMI",
+      "duration": "PT3M17S"
+    }
+  },
+  {
+    "artist": "Far Caspian",
+    "city": "Astoria",
+    "lat": "46.1878841",
+    "lng": "-123.83125339999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/gJWcdMgH4Z8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "gJWcdMgH4Z8",
+      "duration": "PT4M7S"
+    }
+  },
+  {
+    "artist": "Young Statues",
+    "city": "Athens",
+    "lat": "37.9838096",
+    "lng": "23.727538800000048",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/xth0-wQhT_s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "xth0-wQhT_s",
+      "duration": "PT3M19S"
+    }
+  },
+  {
+    "artist": "George Ezra",
+    "city": "Barcelona",
+    "lat": "41.3850639",
+    "lng": "2.1734034999999494",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/nc9rYioj2QM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "nc9rYioj2QM",
+      "duration": "PT3M5S"
+    }
+  },
+  {
+    "artist": "Indochine",
+    "city": "Belfast",
+    "lat": "54.59728500000001",
+    "lng": "-5.930119999999988",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/yuiUlLPHYPA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "yuiUlLPHYPA",
+      "duration": "PT6M6S"
+    }
+  },
+  {
+    "artist": "Palace",
+    "city": "Berlin",
+    "lat": "52.52000659999999",
+    "lng": "13.404953999999975",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/WkP9_skJQrI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "WkP9_skJQrI",
+      "duration": "PT3M13S"
+    }
+  },
+  {
+    "artist": "Declan McKenna",
+    "city": "Bethlehem",
+    "lat": "31.7053821",
+    "lng": "35.20244249999996",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/1Ce_ICrHVfU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "1Ce_ICrHVfU",
+      "duration": "PT3M44S"
+    }
+  },
+  {
+    "artist": "Foxlane",
+    "city": "Birmingham",
+    "lat": "33.5185892",
+    "lng": "-86.8103567",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/655OPrwua4c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "655OPrwua4c",
+      "duration": "PT5M14S"
+    }
+  },
+  {
+    "artist": "Dermot Kennedy",
+    "city": "Boston",
+    "lat": "42.3600825",
+    "lng": "-71.05888010000001",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/U4nIc2I1y8I/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "U4nIc2I1y8I",
+      "duration": "PT4M34S"
+    }
+  },
+  {
+    "artist": "Beirut",
+    "city": "Bratislava",
+    "lat": "48.1485965",
+    "lng": "17.10774779999997",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/7Bah_s2re9Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "7Bah_s2re9Y",
+      "duration": "PT3M18S"
+    }
+  },
+  {
+    "artist": "Warhaus",
+    "city": "Bruxelles",
+    "lat": "50.8503396",
+    "lng": "4.351710300000036",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/EaGjkhlI7E0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "EaGjkhlI7E0",
+      "duration": "PT4M41S"
+    }
+  },
+  {
+    "artist": "George Ezra",
+    "city": "Budapest",
+    "lat": "47.497912",
+    "lng": "19.04023499999994",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/VHrLPs3_1Fs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "VHrLPs3_1Fs",
+      "duration": "PT3M37S"
+    }
+  },
+  {
+    "artist": "Toro y Moi",
+    "city": "Buffalo",
+    "lat": "42.88644679999999",
+    "lng": "-78.8783689",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/rBn06ZRU-4o/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "rBn06ZRU-4o",
+      "duration": "PT3M20S"
+    }
+  },
+  {
+    "artist": "San Fermin",
+    "city": "Cairo",
+    "lat": "30.0444196",
+    "lng": "31.23571160000006",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/b2BgX-gaD_w/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "b2BgX-gaD_w",
+      "duration": "PT4M34S"
+    }
+  },
+  {
+    "artist": "Bon Iver",
+    "city": "Calgary",
+    "lat": "51.04473309999999",
+    "lng": "-114.07188309999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/0KrmxavLIRM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "0KrmxavLIRM",
+      "duration": "PT4M13S"
+    }
+  },
+  {
+    "artist": "Beirut",
+    "city": "Cherbourg",
+    "lat": "49.6337308",
+    "lng": "-1.622137000000066",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/Z5BuZQGoJF4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "Z5BuZQGoJF4",
+      "duration": "PT3M34S"
+    }
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "city": "Chicago",
+    "lat": "41.8781136",
+    "lng": "-87.62979819999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/c_-cUdmdWgU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "c_-cUdmdWgU",
+      "duration": "PT6M5S"
+    }
+  },
+  {
+    "artist": "First Hate",
+    "city": "Copenhagen",
+    "lat": "55.6760968",
+    "lng": "12.568337199999974",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/1vJ6_lChV1A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "1vJ6_lChV1A",
+      "duration": "PT4M18S"
+    }
+  },
+  {
+    "artist": "Gorillaz",
+    "city": "Detroit",
+    "lat": "42.331427",
+    "lng": "-83.0457538",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/jax83cVKij0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "jax83cVKij0",
+      "duration": "PT2M4S"
+    }
+  },
+  {
+    "artist": "The Slow Show",
+    "city": "Dresden",
+    "lat": "51.0504088",
+    "lng": "13.737262099999953",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/ZTQwhKK4mRI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "ZTQwhKK4mRI",
+      "duration": "PT5M41S"
+    }
+  },
+  {
+    "artist": "Prefab Sprout",
+    "city": "Dublin",
+    "lat": "53.3498053",
+    "lng": "-6.260309699999993",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/k9ob1mPJ0q8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "k9ob1mPJ0q8",
+      "duration": "PT3M44S"
+    }
+  },
+  {
+    "artist": "Regina Spektor",
+    "city": "Düsseldorf",
+    "lat": "51.2277411",
+    "lng": "6.773455600000034",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/_UIeooHNvPo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "_UIeooHNvPo",
+      "duration": "PT3M13S"
+    }
+  },
+  {
+    "artist": "The Lake Poets",
+    "city": "Edinburgh",
+    "lat": "55.953252",
+    "lng": "-3.188266999999996",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/onz02Or5grE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "onz02Or5grE",
+      "duration": "PT4M52S"
+    }
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "city": "Eugene",
+    "lat": "44.0520691",
+    "lng": "-123.08675360000001",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/mMKP2Vcc6wA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "mMKP2Vcc6wA",
+      "duration": "PT2M25S"
+    }
+  },
+  {
+    "artist": "Beirut",
+    "city": "Gallipoli",
+    "lat": "40.3333333",
+    "lng": "26.5",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/knHvi4A8v9Q/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "knHvi4A8v9Q",
+      "duration": "PT4M7S"
+    }
+  },
+  {
+    "artist": "Kindness",
+    "city": "Geneva",
+    "lat": "46.2043907",
+    "lng": "6.143157699999961",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/CUvagfXwyEM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "CUvagfXwyEM",
+      "duration": "PT5M52S"
+    }
+  },
+  {
+    "artist": "Catfish and the Bottlemen",
+    "city": "Glasgow",
+    "lat": "55.864237",
+    "lng": "-4.251805999999988",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/Tyc4vo28_MU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "Tyc4vo28_MU",
+      "duration": "PT2M41S"
+    }
+  },
+  {
+    "artist": "Fountains Of Wayne",
+    "city": "Hackensack",
+    "lat": "40.8859325",
+    "lng": "-74.04347359999997",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/Kq8ZzZDjTd4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "Kq8ZzZDjTd4",
+      "duration": "PT3M1S"
+    }
+  },
+  {
+    "artist": "Camila Cabello (feat. Young Thug)",
+    "city": "Havana",
+    "lat": "23.1135925",
+    "lng": "-82.36659559999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/BQ0mxQXmLsk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "BQ0mxQXmLsk",
+      "duration": "PT6M43S"
+    }
+  },
+  {
+    "artist": "L.A.",
+    "city": "Helsinki",
+    "lat": "60.16985569999999",
+    "lng": "24.93837910000002",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/dLUWCGUlkxU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "dLUWCGUlkxU",
+      "duration": "PT3M15S"
+    }
+  },
+  {
+    "artist": "Bon Iver",
+    "city": "Hinnom",
+    "lat": "38.110702",
+    "lng": "-76.73630500000002",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/ve5dUOWI0q4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "ve5dUOWI0q4",
+      "duration": "PT2M47S"
+    }
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "city": "Holland",
+    "lat": "52.132633",
+    "lng": "5.2912659999999505",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/R6wQ2YP2mhk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "R6wQ2YP2mhk",
+      "duration": "PT3M29S"
+    }
+  },
+  {
+    "artist": "Gorillaz",
+    "city": "Hong Kong",
+    "lat": "22.3193039",
+    "lng": "114.16936110000006",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/j1RzxBBAQzA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "j1RzxBBAQzA",
+      "duration": "PT7M18S"
+    }
+  },
+  {
+    "artist": "Last Dinosaurs",
+    "city": "Honolulu",
+    "lat": "21.3069444",
+    "lng": "-157.85833330000003",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/MinoVJfuAAs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "MinoVJfuAAs",
+      "duration": "PT4M12S"
+    }
+  },
+  {
+    "artist": "R.E.M.",
+    "city": "Houston",
+    "lat": "29.7604267",
+    "lng": "-95.3698028",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/6leZFkO_Djs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "6leZFkO_Djs",
+      "duration": "PT2M23S"
+    }
+  },
+  {
+    "artist": "Vampire Weekend",
+    "city": "Hudson",
+    "lat": "42.2528649",
+    "lng": "-73.79095899999999",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/ghziAXJAvk8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "ghziAXJAvk8",
+      "duration": "PT4M15S"
+    }
+  },
+  {
+    "artist": "Lust For Youth",
+    "city": "Imola",
+    "lat": "44.35999959999999",
+    "lng": "11.712429400000019",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/e19GckHndI4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "e19GckHndI4",
+      "duration": "PT4M27S"
+    }
+  },
+  {
+    "artist": "They Might Be Giants",
+    "city": "Istanbul (Not Constantinople)",
+    "lat": "41.0082376",
+    "lng": "28.97835889999999",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/vsQrKZcYtqg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "vsQrKZcYtqg",
+      "duration": "PT2M36S"
+    }
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "city": "Jacksonville",
+    "lat": "30.3321838",
+    "lng": "-81.65565099999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/8bQJdAqbQJ0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "8bQJdAqbQJ0",
+      "duration": "PT5M25S"
+    }
+  },
+  {
+    "artist": "Sinéad O'Connor",
+    "city": "Jerusalem",
+    "lat": "31.768319",
+    "lng": "35.21370999999999",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/eGFdJPqoh1M/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "eGFdJPqoh1M",
+      "duration": "PT4M14S"
+    }
+  },
+  {
+    "artist": "Okkervil River",
+    "city": "Kansas City",
+    "lat": "39.0997265",
+    "lng": "-94.57856670000001",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/RlVcU1TdqNE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "RlVcU1TdqNE",
+      "duration": "PT5M47S"
+    }
+  },
+  {
+    "artist": "Faye Webster",
+    "city": "Kingston",
+    "lat": "41.9270367",
+    "lng": "-73.99736080000002",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/-5_tGEao_GQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "-5_tGEao_GQ",
+      "duration": "PT3M25S"
+    }
+  },
+  {
+    "artist": "Lucy Rose",
+    "city": "Köln",
+    "lat": "50.937531",
+    "lng": "6.960278600000038",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/0d2m4oh8psk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "0d2m4oh8psk",
+      "duration": "PT3M22S"
+    }
+  },
+  {
+    "artist": "Elliott Smith",
+    "city": "L.A.",
+    "lat": "34.0522342",
+    "lng": "-118.2436849",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/TLlu9XjJg3s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "TLlu9XjJg3s",
+      "duration": "PT3M16S"
+    }
+  },
+  {
+    "artist": "Band of Horses",
+    "city": "Laredo",
+    "lat": "27.5035613",
+    "lng": "-99.50755190000001",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/Ev0jl6RS5Eo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "Ev0jl6RS5Eo",
+      "duration": "PT3M9S"
+    }
+  },
+  {
+    "artist": "Balthazar",
+    "city": "Leipzig",
+    "lat": "51.3396955",
+    "lng": "12.373074699999961",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/XWPFvTurnTw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "XWPFvTurnTw",
+      "duration": "PT2M41S"
+    }
+  },
+  {
+    "artist": "Lisa Hannigan",
+    "city": "Lille",
+    "lat": "50.62925",
+    "lng": "3.057256000000052",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/2G21swi--fc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "2G21swi--fc",
+      "duration": "PT4M6S"
+    }
+  },
+  {
+    "artist": "Maximo Park",
+    "city": "Limassol",
+    "lat": "34.7071301",
+    "lng": "33.022617399999945",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/L1jmjtLUbYg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "L1jmjtLUbYg",
+      "duration": "PT3M43S"
+    }
+  },
+  {
+    "artist": "Wolf Alice",
+    "city": "Lisbon",
+    "lat": "38.7222524",
+    "lng": "-9.139336599999979",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/EmoomYE2HbQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "EmoomYE2HbQ",
+      "duration": "PT3M29S"
+    }
+  },
+  {
+    "artist": "Benjamin Clementine",
+    "city": "London",
+    "lat": "51.5073509",
+    "lng": "-0.12775829999998223",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/6RJMhYtYKMQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "6RJMhYtYKMQ",
+      "duration": "PT4M"
+    }
+  },
+  {
+    "artist": "Ólöf Arnalds",
+    "city": "Madrid",
+    "lat": "40.4167754",
+    "lng": "-3.7037901999999576",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/BvCPfIrqxHs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "BvCPfIrqxHs",
+      "duration": "PT4M59S"
+    }
+  },
+  {
+    "artist": "Girls Names",
+    "city": "Málaga",
+    "lat": "36.7167456",
+    "lng": "-4.425996199999986",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/pkCPWRe7rL4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "pkCPWRe7rL4",
+      "duration": "PT3M15S"
+    }
+  },
+  {
+    "artist": "STRFKR",
+    "city": "Malmo",
+    "lat": "55.604981",
+    "lng": "13.003822000000014",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/sgZvKBBuv-c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "sgZvKBBuv-c",
+      "duration": "PT3M35S"
+    }
+  },
+  {
+    "artist": "Nina Nesbitt",
+    "city": "Manchester",
+    "lat": "53.4807593",
+    "lng": "-2.2426305000000184",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/7sSmlWKBtKU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "7sSmlWKBtKU",
+      "duration": "PT3M44S"
+    }
+  },
+  {
+    "artist": "Foals",
+    "city": "Miami",
+    "lat": "25.7616798",
+    "lng": "-80.19179020000001",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/vQ90LRaEIt0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "vQ90LRaEIt0",
+      "duration": "PT4M21S"
+    }
+  },
+  {
+    "artist": "The Weeknd",
+    "city": "Montreal",
+    "lat": "45.5016889",
+    "lng": "-73.56725599999999",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/TV1r4m8c9SI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "TV1r4m8c9SI",
+      "duration": "PT4M16S"
+    }
+  },
+  {
+    "artist": "Autoheart",
+    "city": "Moscow",
+    "lat": "55.755826",
+    "lng": "37.617299900000035",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/KIRgN6xTjnA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "KIRgN6xTjnA",
+      "duration": "PT3M52S"
+    }
+  },
+  {
+    "artist": "Editors",
+    "city": "Munich",
+    "lat": "48.1351253",
+    "lng": "11.581980499999986",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/5xRVm-JX5Rk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "5xRVm-JX5Rk",
+      "duration": "PT3M46S"
+    }
+  },
+  {
+    "artist": "Fleet Foxes",
+    "city": "Mykonos",
+    "lat": "37.4467354",
+    "lng": "25.32888449999996",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/DT-dxG4WWf4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "DT-dxG4WWf4",
+      "duration": "PT3M49S"
+    }
+  },
+  {
+    "artist": "Beirut",
+    "city": "Nantes",
+    "lat": "47.218371",
+    "lng": "-1.553621000000021",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/PCkT4K-hppE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "PCkT4K-hppE",
+      "duration": "PT3M51S"
+    }
+  },
+  {
+    "artist": "Yo La Tengo",
+    "city": "Naples",
+    "lat": "40.8517983",
+    "lng": "14.26812",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/UJQMJIfRwYk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "UJQMJIfRwYk",
+      "duration": "PT2M47S"
+    }
+  },
+  {
+    "artist": "alt-J",
+    "city": "Nara",
+    "lat": "34.685109",
+    "lng": "135.80480190000003",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/MtmrYisoxXA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "MtmrYisoxXA",
+      "duration": "PT4M57S"
+    }
+  },
+  {
+    "artist": "St. Vincent",
+    "city": "New York",
+    "lat": "40.7127753",
+    "lng": "-74.0059728",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/4TPqUvy1vYU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "4TPqUvy1vYU",
+      "duration": "PT3M2S"
+    }
+  },
+  {
+    "artist": "Caribou",
+    "city": "Odessa",
+    "lat": "46.482526",
+    "lng": "30.723309500000028",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/Yq_tDOFU5tY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "Yq_tDOFU5tY",
+      "duration": "PT5M15S"
+    }
+  },
+  {
+    "artist": "Anna of the North",
+    "city": "Oslo",
+    "lat": "59.9138688",
+    "lng": "10.752245399999993",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/zsGw39dq7t4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "zsGw39dq7t4",
+      "duration": "PT3M59S"
+    }
+  },
+  {
+    "artist": "Little Dragon",
+    "city": "Paris",
+    "lat": "48.856614",
+    "lng": "2.3522219000000177",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/EFEyHkW5MCs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "EFEyHkW5MCs",
+      "duration": "PT3M27S"
+    }
+  },
+  {
+    "artist": "Bon Iver",
+    "city": "Perth",
+    "lat": "-31.9505269",
+    "lng": "115.86045719999993",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/iIluBvQ77Bk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "iIluBvQ77Bk",
+      "duration": "PT4M23S"
+    }
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "city": "Pittsfield",
+    "lat": "42.4500845",
+    "lng": "-73.24538239999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/OmoTA_feqWk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "OmoTA_feqWk",
+      "duration": "PT6M52S"
+    }
+  },
+  {
+    "artist": "Blaenavon",
+    "city": "Prague",
+    "lat": "50.0755381",
+    "lng": "14.43780049999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/DmmtYsXlEYQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "DmmtYsXlEYQ",
+      "duration": "PT5M16S"
+    }
+  },
+  {
+    "artist": "Blur",
+    "city": "Pyongyang",
+    "lat": "39.0392193",
+    "lng": "125.76252410000006",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/Zvodg_PqH18/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "Zvodg_PqH18",
+      "duration": "PT5M48S"
+    }
+  },
+  {
+    "artist": "Brolin",
+    "city": "Reykjavik",
+    "lat": "64.146582",
+    "lng": "-21.942635399999972",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/JfoOJ8hiC-o/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "JfoOJ8hiC-o",
+      "duration": "PT4M6S"
+    }
+  },
+  {
+    "artist": "Followed By Ghosts",
+    "city": "Riga",
+    "lat": "56.9496487",
+    "lng": "24.105186499999945",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/ZRRT34C0dWw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "ZRRT34C0dWw",
+      "duration": "PT5M37S"
+    }
+  },
+  {
+    "artist": "Phoenix",
+    "city": "Rome",
+    "lat": "41.9027835",
+    "lng": "12.496365500000024",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/6COg7Y6kW40/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "6COg7Y6kW40",
+      "duration": "PT4M39S"
+    }
+  },
+  {
+    "artist": "Hinds",
+    "city": "San Diego",
+    "lat": "32.715738",
+    "lng": "-117.16108380000003",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/9P2l0zAr3t8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "9P2l0zAr3t8",
+      "duration": "PT2M43S"
+    }
+  },
+  {
+    "artist": "Foxygen",
+    "city": "San Francisco",
+    "lat": "37.7749295",
+    "lng": "-122.41941550000001",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/KtdWGGpvY1s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "KtdWGGpvY1s",
+      "duration": "PT3M49S"
+    }
+  },
+  {
+    "artist": "The National",
+    "city": "Santa Clara",
+    "lat": "37.3541079",
+    "lng": "-121.95523559999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/tcMY-dgnwkI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "tcMY-dgnwkI",
+      "duration": "PT4M6S"
+    }
+  },
+  {
+    "artist": "Beirut",
+    "city": "Santa Fe",
+    "lat": "35.6869752",
+    "lng": "-105.93779899999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/JRCTLJQBRC4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "JRCTLJQBRC4",
+      "duration": "PT4M15S"
+    }
+  },
+  {
+    "artist": "Max Richter",
+    "city": "Sarajevo",
+    "lat": "43.8562586",
+    "lng": "18.413076300000057",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/ZTvhR0lEtZM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "ZTvhR0lEtZM",
+      "duration": "PT4M4S"
+    }
+  },
+  {
+    "artist": "Lucy Rose",
+    "city": "Sheffield",
+    "lat": "53.38112899999999",
+    "lng": "-1.47008500000004",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/q5Fb1UIritY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "q5Fb1UIritY",
+      "duration": "PT3M28S"
+    }
+  },
+  {
+    "artist": "Tom Waits",
+    "city": "Singapore",
+    "lat": "1.352083",
+    "lng": "103.81983600000001",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/QywH5lialsU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "QywH5lialsU",
+      "duration": "PT2M46S"
+    }
+  },
+  {
+    "artist": "Brazilian Girls",
+    "city": "St. Petersburg",
+    "lat": "27.7676008",
+    "lng": "-82.64029149999999",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/3wtCFOESm7A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "3wtCFOESm7A",
+      "duration": "PT4M22S"
+    }
+  },
+  {
+    "artist": "Harfang",
+    "city": "Stockholm",
+    "lat": "59.32932349999999",
+    "lng": "18.068580800000063",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/VQJjQlm79E8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "VQJjQlm79E8",
+      "duration": "PT3M21S"
+    }
+  },
+  {
+    "artist": "The Rakes",
+    "city": "Strasbourg",
+    "lat": "48.5734053",
+    "lng": "7.752111300000024",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/auHdkx9ICow/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "auHdkx9ICow",
+      "duration": "PT2M41S"
+    }
+  },
+  {
+    "artist": "Bombay Bicycle Club",
+    "city": "Swansea",
+    "lat": "51.62144",
+    "lng": "-3.9436459999999443",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/MZOQjBX7suM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "MZOQjBX7suM",
+      "duration": "PT3M55S"
+    }
+  },
+  {
+    "artist": "Caravan Palace",
+    "city": "Sydney",
+    "lat": "-33.8688197",
+    "lng": "151.20929550000005",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/s0fZQEqm3d8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "s0fZQEqm3d8",
+      "duration": "PT3M33S"
+    }
+  },
+  {
+    "artist": "65daysofstatic",
+    "city": "Taipei",
+    "lat": "25.0329694",
+    "lng": "121.56541770000001",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/DmL5Cb7ljn8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "DmL5Cb7ljn8",
+      "duration": "PT6M15S"
+    }
+  },
+  {
+    "artist": "LANY",
+    "city": "Tampa",
+    "lat": "27.950575",
+    "lng": "-82.45717760000002",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/KonHAN_957c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "KonHAN_957c",
+      "duration": "PT3M43S"
+    }
+  },
+  {
+    "artist": "The Notwist",
+    "city": "The Hague",
+    "lat": "52.0704978",
+    "lng": "4.3006999000000405",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/pDKQ-KNtHQE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "pDKQ-KNtHQE",
+      "duration": "PT2M45S"
+    }
+  },
+  {
+    "artist": "White Lies",
+    "city": "Tokyo",
+    "lat": "35.6803997",
+    "lng": "139.76901739999994",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/BwM_mK1HJaA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "BwM_mK1HJaA",
+      "duration": "PT4M53S"
+    }
+  },
+  {
+    "artist": "Tusks",
+    "city": "Toronto",
+    "lat": "43.653226",
+    "lng": "-79.38318429999998",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/hCFBrsLhQ74/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "hCFBrsLhQ74",
+      "duration": "PT3M21S"
+    }
+  },
+  {
+    "artist": "IS TROPICAL",
+    "city": "Toulouse",
+    "lat": "43.604652",
+    "lng": "1.4442090000000007",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/EpcvxD2Q99s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "EpcvxD2Q99s",
+      "duration": "PT2M46S"
+    }
+  },
+  {
+    "artist": "Jeff Buckley",
+    "city": "Vancouver",
+    "lat": "49.2827291",
+    "lng": "-123.12073750000002",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/m0_pFAh6cbw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "m0_pFAh6cbw",
+      "duration": "PT3M18S"
+    }
+  },
+  {
+    "artist": "Beirut",
+    "city": "Venice",
+    "lat": "45.4408474",
+    "lng": "12.31551509999997",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/13N7UI_Eegk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "13N7UI_Eegk",
+      "duration": "PT4M"
+    }
+  },
+  {
+    "artist": "Hurts",
+    "city": "Verona",
+    "lat": "45.43838419999999",
+    "lng": "10.991621500000065",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/XFKuP8TcmXA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "XFKuP8TcmXA",
+      "duration": "PT2M14S"
+    }
+  },
+  {
+    "artist": "Thom Sonny Green",
+    "city": "Vienna",
+    "lat": "48.2081743",
+    "lng": "16.37381890000006",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/TEUAxKisa9I/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "TEUAxKisa9I",
+      "duration": "PT3M13S"
+    }
+  },
+  {
+    "artist": "Sharon Van Etten",
+    "city": "Warsaw",
+    "lat": "52.2296756",
+    "lng": "21.012228700000037",
+    "video": {
+      "thumbnails": {
+        "url": "https://i.ytimg.com/vi/GwLmRvyody0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "id": "GwLmRvyody0",
+      "duration": "PT2M28S"
+    }
+  }
 ]

@@ -1,7 +1,11 @@
 import React from "react";
-
+import SimpleInput from "react-simple-input";
 export default ({ filterData }) => {
   return (
-    <input placeholder="Filter..." onChange={e => filterData(e.target.value)} />
+    <SimpleInput
+      placeholder="Filter..."
+      clearButton
+      onChange={e => filterData(e.target.value)}
+    />
   );
 };
