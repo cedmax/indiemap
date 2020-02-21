@@ -6404,6 +6404,11 @@ lcid@^2.0.0:
   dependencies:
     invert-kv "^2.0.0"
 
+leaflet.marker.slideto@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/leaflet.marker.slideto/-/leaflet.marker.slideto-0.2.0.tgz#0191a7134c85ab57d1dd8efefc90abbe529888e9"
+  integrity sha1-AZGnE0yFq1fR3Y7+/JCrvlKYiOk=
+
 leaflet@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.6.0.tgz#aecbb044b949ec29469eeb31c77a88e2f448f308"
