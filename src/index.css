@@ -16,15 +16,6 @@ body {
   box-sizing: border-box;
 }
 
-.leaflet-container {
-  position: fixed !important;
-  height: 40vh;
-  min-height: 250px;
-  max-height: 500px;
-  width: 100%;
-  z-index: 1;
-}
-
 h3 {
   margin: 0;
   padding: 0;
@@ -32,18 +23,16 @@ h3 {
 
 #videos {
   background: black;
-}
-
-#videos::before {
-  content: "";
-  display: block;
-  height: 40vh;
-  min-height: 250px;
-  max-height: 500px;
+  display: flex;
+  flex-direction: column;
+  max-height: 100vh;
+  overflow: hidden;
 }
 
 .container {
+  overflow: auto;
   display: grid;
+  /* grid-template-rows: span/2 1fr; */
   grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
 }
 
@@ -51,22 +40,40 @@ h3 {
   cursor: pointer;
   min-width: 175px;
   max-width: 100%;
-  opacity: 0.7;
+  opacity: 0.5;
 }
 
 .container > *:hover {
   opacity: 1;
 }
 
-.youtube {
-  opacity: 1;
-  grid-column: span 3;
-  grid-row: span 3;
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */
+.spanned {
+  display: flex;
 }
 
-.youtube iframe {
+.spanned > div {
+  width: 50%;
+}
+
+.youtube,
+.map {
+  width: 100%;
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+@media (max-width: 500px) {
+  .spanned {
+    display: block;
+  }
+
+  .spanned > div {
+    width: 100%;
+  }
+}
+
+.youtube iframe,
+.map > div {
   position: absolute;
   top: 0;
   left: 0;

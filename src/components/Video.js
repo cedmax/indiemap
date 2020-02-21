@@ -1,12 +1,31 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import YTPlayer from "yt-player";
 
-export default ({ selected }) =>
-  selected && (
+export default ({ selectedItem, selectNext }) => {
+  const [player, setPlayer] = useState(null);
+  useEffect(() => {
+    if (!selectedItem) return;
+
+    let localPlayer;
+    if (!player) {
+      localPlayer = new YTPlayer("#ytplayer", {
+        autoplay: true,
+        controls: false,
+        related: false,
+        annotations: false,
+        modestBranding: true
+      });
+      setPlayer(localPlayer);
+      return;
+    } else {
+      localPlayer = player;
+    }
+    localPlayer.on("ended", selectNext);
+    localPlayer.load(selectedItem.video.id, true);
+  }, [selectedItem, player, selectNext]);
+  return (
     <div className="youtube">
-      <iframe
-        title={`${selected.city} by ${selected.artist}`}
-        src={`https://www.youtube.com/embed/${selected.video.id}?autoplay=1`}
-        frameBorder="0"
-      ></iframe>
+      <div id="ytplayer"></div>
     </div>
   );
+};
