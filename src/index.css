@@ -60,6 +60,7 @@ h3 {
   font-family: arial Black;
   opacity: 0.9;
   pointer-events: none;
+  text-align: center;
 }
 
 .container > *:after,
