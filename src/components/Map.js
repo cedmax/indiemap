@@ -11,18 +11,19 @@ export default ({ data, selectedItem, setSelected }) => {
 
   useEffect(() => {
     if (!prevSelected) return;
-    L.marker([prevSelected.lat, prevSelected.lng])
-      .on("click", () => {
-        setSelected(prevSelected.city);
-      })
-      .addTo(map.current.leafletElement)
-      .bindPopup(
-        L.popup().setContent(
-          `<h3>${prevSelected.city}</h3><small>by</small> <strong>${prevSelected.artist}</strong>`
-        )
-      )
-      .openPopup();
     if (selectedItem && map.current) {
+      L.marker([prevSelected.lat, prevSelected.lng])
+        .on("click", () => {
+          setSelected(prevSelected.city);
+        })
+        .addTo(map.current.leafletElement)
+        .bindPopup(
+          L.popup().setContent(
+            `<h3>${prevSelected.city}</h3><small>by</small> <strong>${prevSelected.artist}</strong>`
+          )
+        )
+        .openPopup();
+
       const marker = L.marker([prevSelected.lat, prevSelected.lng], {
         icon: L.divIcon({ className: "my-icon" })
       });
