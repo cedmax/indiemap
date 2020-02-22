@@ -10,6 +10,7 @@ export default ({ data, selectedItem, setSelected }) => {
   const map = useRef(null);
 
   useEffect(() => {
+    if (!prevSelected) return;
     L.marker([prevSelected.lat, prevSelected.lng])
       .on("click", () => {
         setSelected(prevSelected.city);
