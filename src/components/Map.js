@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { Map, TileLayer } from "react-leaflet";
 import L from "leaflet";
 import "leaflet.marker.slideto";
+import "leaflet.polyline.snakeanim";
 
 export default ({ data, selectedItem, setSelected }) => {
   if (!selectedItem) return null;
@@ -45,31 +46,15 @@ export default ({ data, selectedItem, setSelected }) => {
           map.current.leafletElement.removeLayer(marker);
         });
 
-      // const marker = L.marker([selectedItem.lat, selectedItem.lng]);
+      const route = L.polyline(
+        [
+          [prevSelected.lat, prevSelected.lng],
+          [selectedItem.lat, selectedItem.lng]
+        ],
+        { snakingSpeed: 500, className: "disappear" }
+      );
 
-      // const route = L.layerGroup(
-      //   [
-      //     L.marker([prevSelected.lat, prevSelected.lng]),
-      //     L.polyline(
-      //       [
-      //         [prevSelected.lat, prevSelected.lng],
-      //         [selectedItem.lat, selectedItem.lng]
-      //       ],
-      //       { snakingSpeed: 500 }
-      //     ),
-      //     marker
-      //   ],
-      //   { snakingPause: 0 }
-      // );
-      // route.on("snakeend", () => {
-      //   const popup = L.popup().setContent(
-      //     `<h3>${selectedItem.city}</h3><small>by</small> <strong>${selectedItem.artist}</strong>`
-      //   );
-      //   marker.bindPopup(popup).openPopup();
-      //   map.current.leafletElement.flyTo([selectedItem.lat, selectedItem.lng]);
-      // });
-
-      // route.addTo(map.current.leafletElement).snakeIn();
+      route.addTo(map.current.leafletElement).snakeIn();
 
       setPrevSelected(selectedItem);
     }

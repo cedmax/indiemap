@@ -147,3 +147,19 @@ h3 {
   top: 0;
   cursor: pointer;
 }
+
+.disappear {
+  animation: hidden 20s forwards;
+}
+
+@keyframes hidden {
+  0% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

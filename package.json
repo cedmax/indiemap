@@ -11,6 +11,7 @@
     "googleapis": "^47.0.0",
     "leaflet": "^1.6.0",
     "leaflet.marker.slideto": "^0.2.0",
+    "leaflet.polyline.snakeanim": "^0.2.0",
     "node-sass": "^4.13.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",

@@ -6435,6 +6435,11 @@ leaflet.marker.slideto@^0.2.0:
   resolved "https://registry.yarnpkg.com/leaflet.marker.slideto/-/leaflet.marker.slideto-0.2.0.tgz#0191a7134c85ab57d1dd8efefc90abbe529888e9"
   integrity sha1-AZGnE0yFq1fR3Y7+/JCrvlKYiOk=
 
+leaflet.polyline.snakeanim@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/leaflet.polyline.snakeanim/-/leaflet.polyline.snakeanim-0.2.0.tgz#87a5ed5283d438f6fb9188fa9760089a42f21b2d"
+  integrity sha512-fj3rLCWm12CFjGtMVOlHp5dzciJXpfahfLip369nlensr4AY1IgDSVSMkMYKeUxO3kiDX5CqgdqPyQ29TboB3g==
+
 leaflet@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.6.0.tgz#aecbb044b949ec29469eeb31c77a88e2f448f308"
