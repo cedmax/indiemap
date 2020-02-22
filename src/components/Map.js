@@ -11,7 +11,8 @@ export default ({ data, selectedItem, setSelected }) => {
 
   useEffect(() => {
     if (!prevSelected) return;
-    if (selectedItem && map.current) {
+
+    if (map.current) {
       L.marker([prevSelected.lat, prevSelected.lng])
         .on("click", () => {
           setSelected(prevSelected.city);
@@ -48,16 +49,17 @@ export default ({ data, selectedItem, setSelected }) => {
           map.current.leafletElement.removeLayer(marker);
         });
 
-      const route = L.polyline(
-        [
-          [prevSelected.lat, prevSelected.lng],
-          [selectedItem.lat, selectedItem.lng]
-        ],
-        { snakingSpeed: 500, className: "disappear" }
-      );
+      if (prevSelected.city !== selectedItem.city) {
+        const route = L.polyline(
+          [
+            [prevSelected.lat, prevSelected.lng],
+            [selectedItem.lat, selectedItem.lng]
+          ],
+          { snakingSpeed: 500, className: "disappear" }
+        );
 
-      route.addTo(map.current.leafletElement).snakeIn();
-
+        route.addTo(map.current.leafletElement).snakeIn();
+      }
       setPrevSelected(selectedItem);
     }
   }, [selectedItem, map, data]);
