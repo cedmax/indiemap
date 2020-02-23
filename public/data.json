@@ -542,8 +542,8 @@
   {
     "artist": "Sufjan Stevens",
     "city": "Holland",
-    "lat": "52.132633",
-    "lng": "5.2912659999999505",
+    "lat": "42.7875235",
+    "lng": "-86.1089301",
     "video": {
       "thumbnails": {
         "url": "https://i.ytimg.com/vi/R6wQ2YP2mhk/mqdefault.jpg",
@@ -692,8 +692,8 @@
   {
     "artist": "Faye Webster",
     "city": "Kingston",
-    "lat": "41.9270367",
-    "lng": "-73.99736080000002",
+    "lat": "18.0178743",
+    "lng": "-76.8099041",
     "video": {
       "thumbnails": {
         "url": "https://i.ytimg.com/vi/-5_tGEao_GQ/mqdefault.jpg",
@@ -1277,8 +1277,8 @@
   {
     "artist": "Brazilian Girls",
     "city": "St. Petersburg",
-    "lat": "27.7676008",
-    "lng": "-82.64029149999999",
+    "lat": "59.9342802",
+    "lng": "30.3350986",
     "video": {
       "thumbnails": {
         "url": "https://i.ytimg.com/vi/3wtCFOESm7A/mqdefault.jpg",
