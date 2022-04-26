@@ -724,27 +724,27 @@
         "description": "Watch this mesmerizing performance of “Cairo” by Brooklyn-based indie rockers San Fermin. Recorded live at Bose studios, \"Better Sound Sessions\" features artists we love playing songs we love that sound and feel the way music should.\n\nFeaturing Ellis Ludwig-Leone (keyboards),  Allen Tate (vocals, guitar), Charlene Kaye (vocals, guitar), John Brandon (trumpet), Stephen Chen (saxophone), Tyler McDiarmid (guitar), Michael Hanf (drums), and Claire Wellin (vocals, violin).",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/b2BgX-gaD_w/default.jpg",
+                "url": "https://i.ytimg.com/vi/k7gIl9mcXA4/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/b2BgX-gaD_w/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/k7gIl9mcXA4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/b2BgX-gaD_w/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/k7gIl9mcXA4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             },
             "standard": {
-                "url": "https://i.ytimg.com/vi/b2BgX-gaD_w/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/k7gIl9mcXA4/sddefault.jpg",
                 "width": 640,
                 "height": 480
             },
             "maxres": {
-                "url": "https://i.ytimg.com/vi/b2BgX-gaD_w/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/k7gIl9mcXA4/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
             }
@@ -754,7 +754,7 @@
         "position": 18,
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "b2BgX-gaD_w"
+            "videoId": "k7gIl9mcXA4"
         },
         "duration": "PT4M34S"
     },
@@ -1032,17 +1032,17 @@
         "description": "Düsseldorf in pictures",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/_UIeooHNvPo/default.jpg",
+                "url": "https://i.ytimg.com/vi/LFAwIWknlHA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/_UIeooHNvPo/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/LFAwIWknlHA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/_UIeooHNvPo/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/LFAwIWknlHA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1052,7 +1052,7 @@
         "position": 26,
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "_UIeooHNvPo"
+            "videoId": "LFAwIWknlHA"
         },
         "duration": "PT3M13S"
     },
